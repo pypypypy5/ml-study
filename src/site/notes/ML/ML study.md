@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ml/ml-study/","tags":["gardenEntry"]}
 ---
 
-신효재의 ml 공부 블로그.
+# 신효재의 ml 공부 블로그.
 공부한 것들을 그래프로 정리해서 내 머릿속을 명시지로 만들자, 하는 목적으로 만들어짐
 
 
