@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/cs/c/"}
+{"dg-publish":true,"permalink":"/cs/cpp/"}
 ---
 
